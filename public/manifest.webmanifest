@@ -1,0 +1,18 @@
+{
+  "name": "TrailScout",
+  "short_name": "TrailScout",
+  "description": "Find a real walking route and take your next challenge outside.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f5ee",
+  "theme_color": "#123d32",
+  "icons": [
+    {
+      "src": "/trailscout-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
